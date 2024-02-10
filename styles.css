@@ -5,31 +5,30 @@
 	background-color:rgb(41, 0, 0);
 	width:600px;
 	height:600px;
-	
 	display:grid;
 	}
-.box1{
-	background-color:green;
-	grid-column-start:1;
-	grid-column-end:2;
-	border:2px dotted black;
+#box1{
+	background-color:teal;
+	border:2px dotted rgb(38, 38, 43);
 }
-.box2{
-	background-color:yellow;
-	grid-column-start:2;
-	grid-column-end:4;
-	border:2px dotted black;
+#box2{
+	background-color:thistle;
+	border:2px dotted rgb(38, 38, 43);
 }
 
-.box3{
-	background-color:lightblue;
-	grid-column-start:0.5;
-	grid-column-end:1.5;
-	border:2px dotted black;
+#box3{
+	background-color:tomato;
+	border:2px dotted rgb(38, 38, 43);
 }
-.box4{
-	background-color:lightblue;
-	grid-column-start:1.5;
-	grid-column-end:4;
-	border:2px dotted black;
+#box4{
+	background-color:turquoise;
+	border:2px dotted rgb(38, 38, 43);
+}
+#box5{
+	background-color:violet;
+	border:2px dotted rgb(38, 38, 43);
+}
+.box6{
+	background-color:yellowgreen;
+	border:2px dotted rgb(38, 38, 43);
 }
